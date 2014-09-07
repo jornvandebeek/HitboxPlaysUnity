@@ -1,7 +1,8 @@
 The MIT License (MIT)
 
-This software packages the ChatSharp library, which is Copyright (c) 2013 Drew DeVault and licensed under MIT.
-HitboxPlaysUnity is Copyright (c) 2014 Jorn van de Beek.
+This software packages the [ChatSharp](https://github.com/SirCmpwn/ChatSharp) library, which is Copyright (c) 2013 Drew DeVault and licensed under MIT. Changes made to make it Unity friendly can be found here: https://github.com/jornvandebeek/ChatSharp/tree/unity-friendlyfied
+
+HitboxPlaysUnity is Copyright (c) 2014 Jorn van de Beek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
